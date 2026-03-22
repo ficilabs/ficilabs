@@ -16,4 +16,4 @@ Experienced in:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ficilabs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ficilabs&theme=tokyo-night&hide_border=true)
