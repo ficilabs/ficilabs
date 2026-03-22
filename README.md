@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vicky</h1>
+<h1 align="center">Hi 👋, I'm Fiki</h1>
 <h3 align="center">Designing Intelligent Systems • AI • IoT • Web Architecture</h3>
 
 <p align="center">
@@ -65,9 +65,9 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="#">Portfolio</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">Email</a>
+  <a href="mohrofiqi.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/moh-rofiqi-833924328">LinkedIn</a> •
+  <a href="mohrofiqi.vercel.app/contact">Email</a>
 </p>
 
 ---
