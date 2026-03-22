@@ -1,19 +1,76 @@
-I am a technology enthusiast focused on building intelligent systems 
-using AI, IoT, and modern web development.
+<h1 align="center">Hi 👋, I'm Vicky</h1>
+<h3 align="center">Designing Intelligent Systems • AI • IoT • Web Architecture</h3>
 
-Experienced in:
-- Web Development (Laravel, Nuxt)
-- IoT & Embedded Systems (Arduino, PLC)
-- Machine Learning Integration
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;IoT+Developer;Fullstack+Web+Developer;System+Thinker;Tech+Educator&center=true&width=500&height=50">
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82)
-![Arduino](https://img.shields.io/badge/Arduino-blue)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ficilabs&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+## 🧠 About Me
+- 🎓 Tech Graduate (Software & Hardware)
+- ⚡ Passionate about **AI, IoT, and Scalable Systems**
+- 🛠️ Building real-world systems (not just projects)
+- 📚 Teaching & sharing knowledge weekly
+- 🎯 Focus: **Automation, Smart Systems, and Digital Transformation**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ficilabs&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ficilabs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+## 🔥 What I Do
+- 🤖 AI & Machine Learning Integration
+- 🌐 Fullstack Web Development (Modern Architecture)
+- 🔌 IoT Systems & Embedded Development
+- 🏫 Educational Tech Systems (CRM, Attendance, etc.)
+- ⚙️ System Design & Optimization
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ficilabs&theme=tokyo-night&hide_border=true)
+---
+
+## 🧩 Featured Projects
+🚀 **Smart Attendance System (QR Code)**
+> Real-time monitoring, reporting, and automation for schools
+
+🚀 **AI + IoT Automation**
+> Intelligent system that connects sensors with decision-making models
+
+🚀 **CRM for Education Services**
+> Lead tracking, automation, and analytics system
+
+🚀 **Portfolio with Nuxt + Storyblok**
+> Headless CMS + modern frontend architecture
+
+---
+
+## ⚡ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,vue,nuxt,react,nodejs,python,arduino,mysql,postgres,git,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ficilabs&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ficilabs&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Current Focus
+- 🔍 Building **production-ready systems**
+- ⚡ Scaling applications (performance & architecture)
+- 🤖 AI-powered real-world solutions
+- 🌍 Preparing for **global tech opportunities**
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="#">Portfolio</a> •
+  <a href="#">LinkedIn</a> •
+  <a href="#">Email</a>
+</p>
+
+---
+
+## 💡 Personal Philosophy
+> "Don't just build projects. Build systems that people actually use."
