@@ -13,3 +13,5 @@ Experienced in:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ficilabs&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ficilabs&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ficilabs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
