@@ -10,6 +10,6 @@ Experienced in:
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82)
 ![Arduino](https://img.shields.io/badge/Arduino-blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ficilabs&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ficilabs&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ficilabs&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ficilabs&layout=compact&theme=tokyonight)
