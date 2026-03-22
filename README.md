@@ -1,5 +1,10 @@
-## Hi there 👋
+I am a technology enthusiast focused on building intelligent systems 
+using AI, IoT, and modern web development.
 
+Experienced in:
+- Web Development (Laravel, Nuxt)
+- IoT & Embedded Systems (Arduino, PLC)
+- Machine Learning Integration
 <!--
 **ficilabs/ficilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
