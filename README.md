@@ -1,76 +1,63 @@
 <h1 align="center">Hi 👋, I'm Fiki</h1>
-<h3 align="center">Designing Intelligent Systems • AI • IoT • Web Architecture</h3>
+<h3 align="center">AI • IoT • Scalable Web Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;IoT+Developer;Fullstack+Web+Developer;System+Thinker;Tech+Educator&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;IoT+Developer;Fullstack+Developer;System+Builder&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎓 Tech Graduate (Software & Hardware)
-- ⚡ Passionate about **AI, IoT, and Scalable Systems**
-- 🛠️ Building real-world systems (not just projects)
-- 📚 Teaching & sharing knowledge weekly
-- 🎯 Focus: **Automation, Smart Systems, and Digital Transformation**
+## ⚡ About Me
+- 🧠 Build **real-world intelligent systems**
+- ⚙️ Focus on **automation & scalability**
+- 📚 Tech educator & lifelong learner
 
 ---
 
-## 🔥 What I Do
-- 🤖 AI & Machine Learning Integration
-- 🌐 Fullstack Web Development (Modern Architecture)
-- 🔌 IoT Systems & Embedded Development
-- 🏫 Educational Tech Systems (CRM, Attendance, etc.)
-- ⚙️ System Design & Optimization
+## 🚀 What I Build
+- 🤖 AI-powered applications  
+- 🌐 Modern fullstack systems  
+- 🔌 IoT & embedded solutions  
+- 🏫 Education systems (CRM, Attendance)  
 
 ---
 
-## 🧩 Featured Projects
-🚀 **Smart Attendance System (QR Code)**
-> Real-time monitoring, reporting, and automation for schools
-
-🚀 **AI + IoT Automation**
-> Intelligent system that connects sensors with decision-making models
-
-🚀 **CRM for Education Services**
-> Lead tracking, automation, and analytics system
-
-🚀 **Portfolio with Nuxt + Storyblok**
-> Headless CMS + modern frontend architecture
+## 🧩 Key Projects
+- 🚀 **QR Attendance System** → real-time monitoring & reporting  
+- 🚀 **AI + IoT Automation** → smart decision-based system  
+- 🚀 **Education CRM** → lead tracking & workflow automation  
+- 🚀 **Nuxt Portfolio (Headless CMS)**  
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,vue,nuxt,react,nodejs,python,arduino,mysql,postgres,git,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ficilabs&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ficilabs&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Current Focus
-- 🔍 Building **production-ready systems**
-- ⚡ Scaling applications (performance & architecture)
-- 🤖 AI-powered real-world solutions
-- 🌍 Preparing for **global tech opportunities**
+## 🎯 Current Focus
+- ⚡ Production-ready systems  
+- 📈 Scalable architecture  
+- 🤖 AI for real-world use  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 <p>
-  <a href="mohrofiqi.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/moh-rofiqi-833924328">LinkedIn</a> •
-  <a href="mohrofiqi.vercel.app/contact">Email</a>
+  <a href="https://mohrofiqi.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/moh-rofiqi-833924328">LinkedIn</a>
 </p>
 
 ---
 
-## 💡 Personal Philosophy
-> "Don't just build projects. Build systems that people actually use."
+## 💡 Philosophy
+> Build systems. Solve real problems.
