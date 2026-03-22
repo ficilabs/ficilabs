@@ -22,14 +22,6 @@
 
 ---
 
-## 🧩 Key Projects
-- 🚀 **QR Attendance System** → real-time monitoring & reporting  
-- 🚀 **AI + IoT Automation** → smart decision-based system  
-- 🚀 **Education CRM** → lead tracking & workflow automation  
-- 🚀 **Nuxt Portfolio (Headless CMS)**  
-
----
-
 ## ⚙️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,vue,nuxt,react,nodejs,python,arduino,mysql,postgres,git,vercel" />
